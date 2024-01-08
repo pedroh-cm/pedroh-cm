@@ -3,6 +3,4 @@
 
 
  
-<div align="center">
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,figma,github,typescript,react,redux)](https://skillicons.dev)
-</div>
+<div align="center">[![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,figma,github,typescript,react,redux)](https://skillicons.dev)</div>
