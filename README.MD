@@ -1,0 +1,6 @@
+<h1 align="center">Hi 👋, I'm Pedro Henrique C Morinelli - PH</h1>
+<h3 align="center">Software Developer - Front-End Developer</h3>
+
+
+ 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,figma,github,typescript,react,redux)](https://skillicons.dev)
